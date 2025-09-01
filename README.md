@@ -1,4 +1,4 @@
-# Neetcode Blind 75 – RTC Rising Star Edition
+# Neetcode Blind 75 – RTC Rising Star
 
 This repository contains my personal solutions, notes, and strategies for the [Neetcode Blind 75](https://neetcode.io/practice) data structure and algorithm problems, completed as part of the **Rewriting the Code (RTC) Rising Star Program**.
 
